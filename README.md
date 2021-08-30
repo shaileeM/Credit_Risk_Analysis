@@ -77,3 +77,7 @@ The difference in true positive values is only 3. Also the difference between th
 ![](./Images/adaboost_imbalancedClassificationReport.PNG)
 
 ## Summary
+1. Out of all the methods, the accuracy score of decision trees was much higher. 
+2. All the 4 resampling methods had almost same accuracy score. 
+3. Both the oversampling methods(random and SMOTE) have nearly equivalent accuracy score. 
+3. AdaBoost classfier is the model recommended to use having accuracy score of 0.917. 
