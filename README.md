@@ -15,7 +15,7 @@ We need to balance the data before analysing to eliminate the biases.
 ![](./Images/RandomOversampling_ConfusionMatrix.PNG)
 
 3. Imbalanced classification report
-![](./Images/RandomOversampling_ImbalancedClassificationReport .PNG)
+![](./Images/RandomOversampling_ImbalancedClassificationReport.PNG)
 
 
 ### Using SMOTE oversampling 
