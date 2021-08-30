@@ -43,3 +43,37 @@ The difference in true positive values is only 3. Also the difference between th
 
 4. Accuracy score is 0.6282240935571483
 
+### Using combined algorithm : SMOTEENN
+1. Confusion Matrix
+![](/Images/SMOTEENN_confusionMatrix.PNG)
+
+2. Imbalanced classfication report
+![](/Images/SMOTE_ImbalancedCLassificationReport.PNG)
+
+3. Accuracy score is 0.5470624091174319
+
+
+
+
+### Using Balanced Random Forest Classifier
+1. This technique uses many decision trees. It establishes outcome based on predictions of decision trees. 
+
+2. Confusion Matrix
+![](./Images/BalancedRandomForestClassifier_confusionMatrix.PNG)
+
+3. Accuracy score is 0.7814373765816665
+
+4. Imbalanced classfication report
+![](./Images/BalancedRandomForestClassifier_ImbalancedClassificationReport.PNG)
+
+### Using Easy Ensemble AdaBoost Classifier
+
+1. Confusion Matrix
+![](./Images/adaboost_confusionMatrix.PNG)
+
+2. Accuracy score is  : 0.9178773283613644
+
+3. Imbalanced classification report
+![](./Images/adaboost_imbalancedClassificationReport.PNG)
+
+## Summary
